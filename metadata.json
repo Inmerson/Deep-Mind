@@ -1,0 +1,5 @@
+{
+  "name": "Deep Mind",
+  "description": "A dashboard to manage clients, stocks, and finances.",
+  "requestFramePermissions": []
+}
